@@ -1,0 +1,16 @@
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\1002 - Area of a Circle.exe
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\1002 - Area of a Circle.deps.json
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\1002 - Area of a Circle.runtimeconfig.json
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\1002 - Area of a Circle.runtimeconfig.dev.json
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\1002 - Area of a Circle.dll
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\ref\1002 - Area of a Circle.dll
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\bin\Debug\net5.0\1002 - Area of a Circle.pdb
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.csproj.AssemblyReference.cache
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.AssemblyInfoInputs.cache
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.AssemblyInfo.cs
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.csproj.CoreCompileInputs.cache
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.dll
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\ref\1002 - Area of a Circle.dll
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.pdb
+C:\Users\Cabelin\Desktop\githubThiago\URI-Online-Judge\Vs\1002 - Area of a Circle\1002 - Area of a Circle\obj\Debug\net5.0\1002 - Area of a Circle.genruntimeconfig.cache

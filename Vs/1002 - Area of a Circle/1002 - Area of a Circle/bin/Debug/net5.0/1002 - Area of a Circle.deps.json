@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "1002 - Area of a Circle/1.0.0": {
+        "runtime": {
+          "1002 - Area of a Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1002 - Area of a Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
